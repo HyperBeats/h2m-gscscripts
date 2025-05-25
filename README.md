@@ -47,3 +47,28 @@ set sv_gametype "400"
 set specControl "1"`
 set afkTime "10"
 ```
+# PistolOnly
+
+## Configuration
+- **`pistolOnly`**: Enables/disables.
+  - `set pistolOnly "1"` (enable) or `"0"` (disable).
+- **`sv_gametype`**: Sets time before AKF.
+  - Example: `set sv_gametype "dm"` Force FFA.
+
+```plaintext
+set pistolOnly "1"`
+set sv_gametype "dm"
+```
+
+# JumpBoost
+
+## Configuration
+- **`jumpBoost`**: Enables/disables JumpBoost.
+  - `set jumpBoost "1"` (enable) or `"0"` (disable).
+- **`jumpHeight`**: Sets Jump height (default: 39).
+  - Example: `set jumpHeight "65"` Jump height.
+
+```plaintext
+set jumpBoost "1"
+set jumpHeight "65"
+```
