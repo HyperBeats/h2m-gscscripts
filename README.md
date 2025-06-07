@@ -72,3 +72,7 @@ set sv_gametype "dm"
 set jumpBoost "1"
 set jumpHeight "65"
 ```
+# NameFilter
+## Just need add into your script folder
+
+
